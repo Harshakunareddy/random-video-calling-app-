@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Harsha Vardhan/.gradle/wrapper/dists/gradle-7.3.3/caches/transforms-3/45d524e4123b2684e95ec935268a140d/transformed/material-1.6.1/res/layout/test_navigation_bar_item_layout.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/drawable/hvr.xml" value="0.1805" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/drawable/presence_audio_online.xml" value="0.135" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/drawable/presence_video_online.xml" value="0.133" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/drawable/userdetails.xml" value="0.152" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/layout/activity_call.xml" value="0.264" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/layout/activity_connecting.xml" value="0.176" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/layout/activity_rewarding_ads.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/Users/Harsha Vardhan/calling/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

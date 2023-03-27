@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435662618114",
+    "firebase_url": "https://random-calling-app-5d799-default-rtdb.firebaseio.com",
+    "project_id": "random-calling-app-5d799",
+    "storage_bucket": "random-calling-app-5d799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435662618114:android:2b4c3a55ee0791197a711b",
+        "android_client_info": {
+          "package_name": "com.harsha.calling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435662618114-q90t2vn4po33psi5d3hk3knctd9ec310.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsha.calling",
+            "certificate_hash": "e98efa6062958c9640bbfb863dfdf33701a0bf78"
+          }
+        },
+        {
+          "client_id": "435662618114-90vu268sj96tfqvrr25u5tpd55m00o6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaH5lhV8H3aa-dvowE83xZ-YF_EHurIN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435662618114-90vu268sj96tfqvrr25u5tpd55m00o6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
